@@ -41,3 +41,5 @@
 кнопка FF на руле и joystick RIGHT работают на один канал 
 
 соответственно  REW и joystick LEFT
+
+код взят сдесь https://www.primera-club.ru/f/baza-znaniy-tuning-p12/65097-bluetooth-garnitura-v-shtatnyi-razem-i/
