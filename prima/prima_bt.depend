@@ -1,0 +1,804 @@
+# depslib dependency file v1.0
+1432036120 source:s:\avr\timing_show\timing_show.ino
+	<Arduino.h>
+	<avr/eeprom.h>
+	"j1850.h"
+	"jabra.h"
+
+1371033102 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1362990550 s:\mydoc\programm\codeblocks\arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h
+	"../standard/pins_arduino.h"
+
+1432023135 source:s:\avr\timing_show\j1850.c
+	"j1850.h"
+	"keys.h"
+
+1432014425 s:\avr\timing_show\j1850.h
+	<Arduino.h>
+
+1431953362 s:\avr\timing_show\keys.h
+	<Arduino.h>
+
+1431953677 source:s:\avr\timing_show\keys.c
+	"keys.h"
+	"j1850.h"
+	<avr/eeprom.h>
+
+1432023390 source:s:\avr\timing_show\jabra.c
+	"jabra.h"
+
+1432036090 s:\avr\timing_show\jabra.h
+	<Arduino.h>
+
+1435066030 source:s:\google Диск\public\engeneering\j1850\prima_bt\jabra.c
+	"jabra.h"
+
+1432751011 s:\google Диск\public\engeneering\j1850\prima_bt\jabra.h
+	<Arduino.h>
+
+1446193715 source:s:\google Диск\public\engeneering\j1850\prima_bt\keys.c
+	"keys.h"
+	"j1850.h"
+
+1432312088 s:\google Диск\public\engeneering\j1850\prima_bt\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1446814311 s:\google Диск\public\engeneering\j1850\prima_bt\j1850.h
+	<Arduino.h>
+
+1446539859 source:s:\google Диск\public\engeneering\j1850\prima_bt\j1850.c
+	"j1850.h"
+	"keys.h"
+
+1446539531 source:s:\google Диск\public\engeneering\j1850\prima_bt\prima_bt.ino
+	<Arduino.h>
+	<avr/eeprom.h>
+	"j1850.h"
+	"keys.h"
+	"jabra.h"
+	"my_timers.h"
+
+1435066030 source:s:\avr\prima_bt\jabra.c
+	"jabra.h"
+
+1432751011 s:\avr\prima_bt\jabra.h
+	<Arduino.h>
+
+1446193715 source:s:\avr\prima_bt\keys.c
+	"keys.h"
+	"j1850.h"
+
+1432312088 s:\avr\prima_bt\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1447043236 s:\avr\prima_bt\j1850.h
+	<Arduino.h>
+
+1447042860 source:s:\avr\prima_bt\prima_bt.ino
+	<Arduino.h>
+	<avr/eeprom.h>
+	"j1850.h"
+	"keys.h"
+	"jabra.h"
+	"my_timers.h"
+
+1447043175 source:s:\avr\prima_bt\j1850.c
+	"j1850.h"
+	"keys.h"
+
+1446969016 source:s:\avr\prima_bt\my_timers.c
+	"my_timers.h"
+	"jabra.h"
+
+1446529654 s:\avr\prima_bt\my_timers.h
+	<Arduino.h>
+
+1433151248 source:d:\google drive\public\engeneering\j1850\prima_bt\j1850.c
+	"j1850.h"
+	"keys.h"
+
+1432105798 d:\google drive\public\engeneering\j1850\prima_bt\j1850.h
+	<Arduino.h>
+
+1371033102 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h
+	"../standard/pins_arduino.h"
+
+1362986950 d:\distr\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1432312088 d:\google drive\public\engeneering\j1850\prima_bt\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1435066030 source:d:\google drive\public\engeneering\j1850\prima_bt\jabra.c
+	"jabra.h"
+
+1432751011 d:\google drive\public\engeneering\j1850\prima_bt\jabra.h
+	<Arduino.h>
+
+1432399931 source:d:\google drive\public\engeneering\j1850\prima_bt\keys.c
+	"keys.h"
+	"j1850.h"
+
+1432401259 source:d:\google drive\public\engeneering\j1850\prima_bt\my_timers.c
+	"my_timers.h"
+	"jabra.h"
+
+1432391044 d:\google drive\public\engeneering\j1850\prima_bt\my_timers.h
+	<Arduino.h>
+
+1435065797 source:d:\google drive\public\engeneering\j1850\prima_bt\prima_bt.ino
+	<Arduino.h>
+	<avr/eeprom.h>
+	"j1850.h"
+	"keys.h"
+	"jabra.h"
+	"my_timers.h"
+
+1446632363 source:d:\google Диск\public\engeneering\j1850\prima_bt\j1850.c
+	"j1850.h"
+	"keys.h"
+
+1446629541 d:\google Диск\public\engeneering\j1850\prima_bt\j1850.h
+	<Arduino.h>
+
+1371033102 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1432312088 d:\google Диск\public\engeneering\j1850\prima_bt\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1435066030 source:d:\google Диск\public\engeneering\j1850\prima_bt\jabra.c
+	"jabra.h"
+
+1432751011 d:\google Диск\public\engeneering\j1850\prima_bt\jabra.h
+	<Arduino.h>
+
+1446193715 source:d:\google Диск\public\engeneering\j1850\prima_bt\keys.c
+	"keys.h"
+	"j1850.h"
+
+1446636824 source:d:\google Диск\public\engeneering\j1850\prima_bt\my_timers.c
+	"my_timers.h"
+	"jabra.h"
+
+1446529654 d:\google Диск\public\engeneering\j1850\prima_bt\my_timers.h
+	<Arduino.h>
+
+1446633158 source:d:\google Диск\public\engeneering\j1850\prima_bt\prima_bt.ino
+	<Arduino.h>
+	<avr/eeprom.h>
+	"j1850.h"
+	"keys.h"
+	"jabra.h"
+	"my_timers.h"
+
+1362986950 d:\10-distr\Схемотехника\codeblocks\arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h
+	"../standard/pins_arduino.h"
+
+1446636824 source:s:\google Диск\public\engeneering\j1850\prima_bt\my_timers.c
+	"my_timers.h"
+	"jabra.h"
+
+1446529654 s:\google Диск\public\engeneering\j1850\prima_bt\my_timers.h
+	<Arduino.h>
+
+1435066030 source:f:\google Диск\public\engeneering\j1850\prima_bt\jabra.c
+	"jabra.h"
+
+1432751011 f:\google Диск\public\engeneering\j1850\prima_bt\jabra.h
+	<Arduino.h>
+
+1371033102 c:\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 c:\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 c:\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h
+	"../standard/pins_arduino.h"
+
+1362986950 c:\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1446193715 source:f:\google Диск\public\engeneering\j1850\prima_bt\keys.c
+	"keys.h"
+	"j1850.h"
+
+1432312088 f:\google Диск\public\engeneering\j1850\prima_bt\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1446641370 f:\google Диск\public\engeneering\j1850\prima_bt\j1850.h
+	<Arduino.h>
+
+1446636824 source:f:\google Диск\public\engeneering\j1850\prima_bt\my_timers.c
+	"my_timers.h"
+	"jabra.h"
+
+1446529654 f:\google Диск\public\engeneering\j1850\prima_bt\my_timers.h
+	<Arduino.h>
+
+1446728486 source:f:\google Диск\public\engeneering\j1850\prima_bt\j1850.c
+	"j1850.h"
+	"keys.h"
+
+1446728258 source:f:\google Диск\public\engeneering\j1850\prima_bt\prima_bt.ino
+	<Arduino.h>
+	<avr/eeprom.h>
+	"j1850.h"
+	"keys.h"
+	"jabra.h"
+	"my_timers.h"
+
+1447043175 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\j1850.c
+	"j1850.h"
+	"keys.h"
+
+1447043236 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\j1850.h
+	<Arduino.h>
+
+1432312088 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1435066030 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\jabra.c
+	"jabra.h"
+
+1432751011 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\jabra.h
+	<Arduino.h>
+
+1446969016 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\my_timers.c
+	"my_timers.h"
+	"jabra.h"
+
+1446529654 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\my_timers.h
+	<Arduino.h>
+
+1447042860 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\prima_bt.ino
+	<Arduino.h>
+	<avr/eeprom.h>
+	"j1850.h"
+	"keys.h"
+	"jabra.h"
+	"my_timers.h"
+
+1494850576 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\j1850.c
+	"j1850.h"
+	"util.h"
+
+1474284856 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\j1850.h
+	<Arduino.h>
+
+1371033102 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h
+	"../standard/pins_arduino.h"
+
+1362986950 s:\mydoc\08-programm\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1473106790 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1435066030 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\jabra.c
+	"jabra.h"
+
+1432751011 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\jabra.h
+	<Arduino.h>
+
+1446969016 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\my_timers.c
+	"my_timers.h"
+	"jabra.h"
+
+1446529654 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\my_timers.h
+	<Arduino.h>
+
+1494850259 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\3860.c
+	"3860.h"
+	"util.h"
+	"avr/pgmspace.h"
+
+1494850392 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\3860.h
+	<Arduino.h>
+
+1494850379 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\prima_bt.ino
+	<Arduino.h>
+	"j1850.h"
+	"keys.h"
+	"3860.h"
+	"util.h"
+
+1473106790 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\keys.c
+	"keys.h"
+	"j1850.h"
+
+1494618954 s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\util.h
+	<Arduino.h>
+
+1494618900 source:s:\google Диск\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\util.c
+	"util.h"
+
+1494850576 source:e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\j1850.c
+	"j1850.h"
+	"util.h"
+
+1474284856 e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\j1850.h
+	<Arduino.h>
+
+1371033102 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h
+	"../standard/pins_arduino.h"
+
+1362986950 e:\distr\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1473106790 e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1473106790 source:e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\keys.c
+	"keys.h"
+	"j1850.h"
+
+1494618900 source:e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\util.c
+	"util.h"
+
+1495007680 e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\util.h
+	<Arduino.h>
+
+1495009031 source:e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\3860.c
+	"3860.h"
+	"util.h"
+	"avr/pgmspace.h"
+
+1495008790 e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\3860.h
+	<Arduino.h>
+
+1495008933 source:e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\prima_bt.ino
+	<Arduino.h>
+	"j1850.h"
+	"keys.h"
+	"3860.h"
+	"util.h"
+
+1473106790 source:e:\temp\prima_bt_v3.0_ovc\keys.c
+	"keys.h"
+	"j1850.h"
+
+1473106790 e:\temp\prima_bt_v3.0_ovc\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1495215463 e:\temp\prima_bt_v3.0_ovc\j1850.h
+	<Arduino.h>
+
+1494618900 source:e:\temp\prima_bt_v3.0_ovc\util.c
+	"util.h"
+
+1495007680 e:\temp\prima_bt_v3.0_ovc\util.h
+	<Arduino.h>
+
+1495210529 source:e:\temp\prima_bt_v3.0_ovc\3860.c
+	"3860.h"
+	"util.h"
+	"avr/pgmspace.h"
+
+1495008790 e:\temp\prima_bt_v3.0_ovc\3860.h
+	<Arduino.h>
+
+1495214266 source:e:\temp\prima_bt_v3.0_ovc\prima_bt.ino
+	<Arduino.h>
+	"j1850.h"
+	"3860.h"
+	"util.h"
+
+1495215830 source:e:\temp\prima_bt_v3.0_ovc\j1850.c
+	"j1850.h"
+	"util.h"
+
+1495210529 source:e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\9-for public\prima_bt_v3.0_ovc\3860.c
+	"3860.h"
+	"util.h"
+	"avr/pgmspace.h"
+
+1495008790 e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\9-for public\prima_bt_v3.0_ovc\3860.h
+	<Arduino.h>
+
+1495007680 e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\9-for public\prima_bt_v3.0_ovc\util.h
+	<Arduino.h>
+
+1495215830 source:e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\9-for public\prima_bt_v3.0_ovc\j1850.c
+	"j1850.h"
+	"util.h"
+
+1495215463 e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\9-for public\prima_bt_v3.0_ovc\j1850.h
+	<Arduino.h>
+
+1494618900 source:e:\googledrive\public\engeneering\99-archive\j1850\prima_bt\ver_ovc3860\programm\9-for public\prima_bt_v3.0_ovc\util.c
+	"util.h"
+
+1695633501 source:d:\prima_bt-20230906t061930z-001\prima_bt\prima_bt_v3.0_ovc\prima_bt_v3.0_ovc\util.c
+	"util.h"
+
+1495007680 d:\prima_bt-20230906t061930z-001\prima_bt\prima_bt_v3.0_ovc\prima_bt_v3.0_ovc\util.h
+	<Arduino.h>
+
+1371033102 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h
+	"../standard/pins_arduino.h"
+
+1362986950 d:\prima_bt-20230906t061930z-001\prima_bt\codeblocks-arduino-20140626\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1697451603 source:d:\prima_bt-20230906t061930z-001\prima_bt\prima_bt_v3.0_ovc\prima_bt_v3.0_ovc\j1850.c
+	"j1850.h"
+	"util.h"
+
+1697447008 d:\prima_bt-20230906t061930z-001\prima_bt\prima_bt_v3.0_ovc\prima_bt_v3.0_ovc\j1850.h
+	<Arduino.h>
+
+1697452089 source:d:\prima_bt-20230906t061930z-001\prima_bt\prima_bt_v3.0_ovc\prima_bt_v3.0_ovc\prima_bt.ino
+	<Arduino.h>
+	"j1850.h"
+	"util.h"
+
+1697452209 source:d:\prima_bt-20230906t061930z-001\prima_bt\prima_bt_v3.0_ovc\prima_bt_v3.0_ovc\keys.c
+	"keys.h"
+	"j1850.h"
+
+1697451832 d:\prima_bt-20230906t061930z-001\prima_bt\prima_bt_v3.0_ovc\prima_bt_v3.0_ovc\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1698647092 source:d:\prima_bt-20230906t061930z-001\prima_bt\prima\prima\prima_bt_v3.0_ovc\j1850.c
+	"j1850.h"
+	"util.h"
+
+1698227019 d:\prima_bt-20230906t061930z-001\prima_bt\prima\prima\prima_bt_v3.0_ovc\j1850.h
+	<Arduino.h>
+
+1698829670 d:\prima_bt-20230906t061930z-001\prima_bt\prima\prima\prima_bt_v3.0_ovc\util.h
+	<Arduino.h>
+
+1697452209 source:d:\prima_bt-20230906t061930z-001\prima_bt\prima\prima\prima_bt_v3.0_ovc\keys.c
+	"keys.h"
+	"j1850.h"
+
+1698158592 d:\prima_bt-20230906t061930z-001\prima_bt\prima\prima\prima_bt_v3.0_ovc\keys.h
+	<Arduino.h>
+	<avr/eeprom.h>
+
+1695633501 source:d:\prima_bt-20230906t061930z-001\prima_bt\prima\prima\prima_bt_v3.0_ovc\util.c
+	"util.h"
+
+1698588171 source:d:\prima_bt-20230906t061930z-001\prima_bt\prima\prima\prima_bt_v3.0_ovc\prima_bt.ino
+	<Arduino.h>
+	"j1850.h"
+	"util.h"
+
